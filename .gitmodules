@@ -1,0 +1,6 @@
+[submodule "phaserio/phaser"]
+	path = phaserio/phaser
+	url = https://github.com/photonstorm/phaser.git
+[submodule "phaser"]
+	path = phaser
+	url = https://github.com/photonstorm/phaser.git

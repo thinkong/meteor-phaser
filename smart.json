@@ -1,0 +1,9 @@
+{
+  "name": "phaserio",
+  "description": "phaserjs(http://phaser.io/) for meteor",
+  "homepage": "https://github.com/thinkong/meteor-phaser",
+  "author": "Nokdu <thinkong@hotmail.com> (http://thinkong.github.io/)",
+  "version": "0.0.1",
+  "git": "https://github.com/thinkong/meteor-phaser.git",
+  "packages": {}
+}
