@@ -1,9 +1,9 @@
 {
   "name": "phaserio",
-  "description": "phaserjs(http://phaser.io/) for meteor",
+  "description": "Browser-based desktop/mobile game development framework Phaser, repackagedfor Meteor",
   "homepage": "https://github.com/thinkong/meteor-phaser",
   "author": "Nokdu <thinkong@hotmail.com> (http://thinkong.github.io/)",
-  "version": "0.0.1",
+  "version": "2.0.3-1",
   "git": "https://github.com/thinkong/meteor-phaser.git",
   "packages": {}
 }
