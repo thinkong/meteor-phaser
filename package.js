@@ -10,5 +10,5 @@ Package.on_use(function (api, where) {
 Package.on_test(function (api) {
   api.use('phaserio');
 
-  api.add_files('phaserio_tests.js', ['client', 'server']);
+//  api.add_files('phaserio_tests.js', ['client', 'server']);
 });
