@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "REPLACEME - What does this package (or the original one you're wrapping) do?"
+  summary: "Wrapper for phaser.io to use in meteor"
 });
 
 Package.on_use(function (api, where) {
