@@ -1,6 +1,8 @@
 meteor-phaser
 =============
 
+Notice :  this repository is currently not actively maintained.. I am not sure if this is working.. so any feedback/pull requests are welcome. also.. contact me if you want to take over this :D
+
 [Phaser](http://phaser.io/), a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering, repackaged for Meteor.
 
 # License
